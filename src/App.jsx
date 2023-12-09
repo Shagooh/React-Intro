@@ -8,7 +8,7 @@ import Footer from "./components/Footer";
 function App() {
   return (
     <div>
-      <Header title="Adopta un perrito"></Header>
+      <Header title="ADOPTA UN PERRITO"></Header>
       <div className="hero">
         <MyCard
           image="https://cdn.pixabay.com/photo/2016/05/09/10/42/weimaraner-1381186_1280.jpg"
