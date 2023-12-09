@@ -1,0 +1,16 @@
+#root {
+  max-width: 1500px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.hero {
+  display: flex;
+  gap: 10px;
+}
+
+.card > img {
+  height: 200px;
+  width: auto;
+}
